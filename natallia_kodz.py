@@ -1,0 +1,1 @@
+print("natallia_kodz")
